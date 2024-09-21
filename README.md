@@ -15,3 +15,8 @@ Tailwind CSS: A utility-first CSS framework used to rapidly build custom designs
 CSS Flexbox: Facilitates flexible and efficient layout structures.
 CSS Grid: Enables complex grid-based layouts with ease.
 CSS Animations: Adds dynamic visual effects to enhance user interactions.
+JavaScript: For dynamic functionalities and user interactions.
+Getting Started
+Prerequisites
+A modern web browser (Chrome, Firefox, Safari, etc.)
+Basic knowledge of HTML, CSS, and JavaScript
